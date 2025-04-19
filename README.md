@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faisal Misbah</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">An aspiring software engineer from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalmisbah23&label=Profile%20views&color=0e75b6&style=flat" alt="faisalmisbah23" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://faisalmisbah23.github.io/Portfolio/](https://faisalmisbah23.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://faisalmisbahportfolio-faisal-misbahs-projects.vercel.app](https://faisalmisbahportfolio-faisal-misbahs-projects.vercel.app)
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Software Engineering**
 
 - 📫 How to reach me **faisalmisbah23@gmail.com**
 
