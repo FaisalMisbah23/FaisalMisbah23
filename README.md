@@ -12,15 +12,6 @@ Software Engineer from Lahore, Pakistan with a focus on full-stack web developme
 
 ---
 
-## Open Source Contributions
-
-| Project | Contributions |
-| --- | --- |
-| [**openstreetmap/iD**](https://github.com/openstreetmap/iD) | [Pull Requests](https://github.com/openstreetmap/iD/pulls?q=is%3Apr+author%3AFaisalMisbah23) \| [Issues](https://github.com/openstreetmap/iD/issues?q=is%3Aissue+author%3AFaisalMisbah23) |
-| [**apache/rocketmq**](https://github.com/apache/rocketmq) | [Pull Requests](https://github.com/apache/rocketmq/pulls?q=is%3Apr+author%3AFaisalMisbah23) \| [Issues](https://github.com/apache/rocketmq/issues?q=is%3Aissue+author%3AFaisalMisbah23) |
-
----
-
 ## Tech Stack
 
 ### Languages
