@@ -8,7 +8,7 @@
 
 ### About
 
-Software Engineer from Lahore, Pakistan with a focus on full-stack web development, mobile apps, and open source. I contribute to **OpenStreetMap (iD editor)** and **Apache RocketMQ**, and I build with TypeScript, JavaScript, React, Node.js, and React Native across the stack.
+Software Engineer from Lahore, Pakistan with a focus on full-stack web development, mobile apps, and open source. I build with TypeScript, JavaScript, React, Node.js, and React Native across the stack.
 
 ---
 
@@ -40,13 +40,6 @@ Software Engineer from Lahore, Pakistan with a focus on full-stack web developme
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
----
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FaisalMisbah23&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalMisbah23&layout=compact&theme=default&hide_border=true)
 
 ---
 
